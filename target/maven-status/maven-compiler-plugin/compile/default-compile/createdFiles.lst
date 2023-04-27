@@ -1,0 +1,4 @@
+br\com\codandosimples\PrimeiraServlet.class
+br\com\codandosimples\servlets\AdicionaDespesaServlet.class
+br\com\codandosimples\servlets\ListaDespesaServlet.class
+br\com\codandosimples\servlets\RemoveDespesaSevlet.class
